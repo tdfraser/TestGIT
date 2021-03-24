@@ -2,3 +2,9 @@ This is my test.
 
 
 Just checking, is this working.
+
+Update commands
+git add test.txt
+git status
+git commit -m "comment: 2nd commite for example" test.txt
+git push -u origin main
